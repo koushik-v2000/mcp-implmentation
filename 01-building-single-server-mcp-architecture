@@ -1,3 +1,0 @@
-Advanced Model Context Protocol: Single Server MCP Architecture
-This project implements a Model Context Protocol (MCP) using a Python client-server architecture. The server provides weather and AI model data via APIs, and the client fetches this data. The project demonstrates secure environment variable management and modular Python application structure, with support for OpenWeatherMap and Google Gemini APIs.
-
